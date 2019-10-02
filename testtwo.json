@@ -1,13 +1,13 @@
 [
   {
-    "uid": "",
+    "uid": "1",
     "updateDate": "2019-10-02T00:00:00.0Z",
     "titleText": "Multi Item JSON (TTS)",
     "mainText": "Testing JSON news in ANUP set 1",
     "redirectionUrl": ""
    },
   {
-    "uid": "",
+    "uid": "2",
     "updateDate": "2019-10-02T00:00:00.1Z",
     "titleText": "Multi Item JSON (TTS)",
     "mainText": "Testing JSON news in ANUP set 2",
